@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222749325554",
+    "project_id": "zepto-e27df",
+    "storage_bucket": "zepto-e27df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222749325554:android:6eac7953d69169b2a7786b",
+        "android_client_info": {
+          "package_name": "com.zepto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD969Kmh1-B8LCV8kUuw8NGxsYuQ0gWEL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

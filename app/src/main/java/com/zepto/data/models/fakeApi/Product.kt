@@ -1,4 +1,4 @@
-package com.zepto.data.models
+package com.zepto.data.models.fakeApi
 
 data class Product(
     val id: Int,

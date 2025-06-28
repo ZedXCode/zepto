@@ -1,4 +1,4 @@
 package com.zepto.data.models
 
-class CartItem {
+class SearchUiState {
 }
